@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 64 64"
+     role="img"
+     aria-label="TH favicon">
+
+    <rect width="64"
+          height="64"
+          rx="10"
+          fill="#17365d" />
+
+    <text x="32"
+          y="41"
+          text-anchor="middle"
+          font-family="Arial, Helvetica, sans-serif"
+          font-size="28"
+          font-weight="bold"
+          fill="#ffffff">
+        TH
+    </text>
+</svg>
